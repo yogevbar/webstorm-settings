@@ -1,0 +1,16 @@
+<templateSet group="Node.js">
+  <template name="iferr" value="if(err) return callback(err);&#10;&#10;$END$&#10;" description="Handle callback error and return" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="iferrn" value="if(err) return next(err);&#10;&#10;$END$&#10;" description="Handle next error and return" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="apple-app-site-association" type="JSON" />
+      <mapping pattern="A4sHHu_ACwQbPmjXEsfuqapLdKUAF0-skuIiTq6dCGg" type="PLAIN_TEXT" />
+      <mapping pattern="V_Pxcyd2prNYaxBUT4ZmQwwg7VGzan4OVj1kJEzy72s" type="PLAIN_TEXT" />
+      <mapping pattern="bKb_091aGvhFDWe8ccq6eojzzEfhZYOrIVMpdc_saGo" type="PLAIN_TEXT" />
+      <mapping ext="opts" type="PLAIN_TEXT" />
+      <mapping ext="tbz" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
