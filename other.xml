@@ -35,7 +35,7 @@
         <option name="PATH_TO_PPK" value="" />
       </value>
     </option>
-    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="PATH_TO_PASSWORD_FILE" />
     <option name="TIMEOUT" value="10" />
     <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
     <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
@@ -48,6 +48,6 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="5.2.0" last-modified="1449992705000" />
+    <node-interpreter path="/usr/local/bin/node" version="5.3.0" last-modified="1451542531000" />
   </component>
 </application>
