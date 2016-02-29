@@ -8,6 +8,7 @@
       <mapping pattern="bKb_091aGvhFDWe8ccq6eojzzEfhZYOrIVMpdc_saGo" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="tbz" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
