@@ -9,6 +9,7 @@
       <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="tbz" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="config" type="YAML" />
     </extensionMap>
   </component>
 </application>
