@@ -6,9 +6,6 @@
     <option name="INDENT_CHAINED_CALLS" value="false" />
     <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
   </JSCodeStyleSettings>
-  <MultiMarkdownCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MultiMarkdownCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
