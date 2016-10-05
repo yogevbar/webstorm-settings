@@ -1,6 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="conf" type="Bash" />
       <mapping pattern="apple-app-site-association" type="JSON" />
       <mapping pattern="api" type="JavaScript" />
       <mapping pattern="A4sHHu_ACwQbPmjXEsfuqapLdKUAF0-skuIiTq6dCGg" type="PLAIN_TEXT" />
