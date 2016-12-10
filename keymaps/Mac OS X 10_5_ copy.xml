@@ -1,0 +1,9 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ClassNameCompletion" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt space" />
+  </action>
+</keymap>
