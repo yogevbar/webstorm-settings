@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="console" value="console.log();" toReformat="false" toShortenFQNames="true">
+  <template name="co" value="console.log();" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
