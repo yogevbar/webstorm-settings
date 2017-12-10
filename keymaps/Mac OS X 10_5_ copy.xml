@@ -3,6 +3,9 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt space" />
   </action>
